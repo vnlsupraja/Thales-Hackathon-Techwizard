@@ -1,4 +1,6 @@
 # Thales Secure Mail Analyzer
+![photo png](https://github.com/user-attachments/assets/18b2788b-dff4-40da-8b5d-53e9c6addb9a)
+
 
 **Thales Secure Mail Analyzer** is an advanced email security and management system designed to enhance organizational email safety. This project was developed for the **Thales GenTech India Hackathon** and aims to provide administrators with robust tools for managing email data while empowering end-users with AI-driven guidance to combat email threats.
 
