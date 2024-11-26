@@ -32,6 +32,8 @@
 
 ### **AI-Powered Chatbot**
 - **Thales Guardian Chatbot**:
+![Provides real-time guidance on identifying email threats _Educates users on_20241126_100837_0000](https://github.com/user-attachments/assets/0ffe859a-cc59-4dee-8c3c-a29f289cc5c7)
+
   - Provides real-time guidance on identifying email threats.
   - Educates users on phishing and email safety best practices.
   - Features an engaging UI with glowing design effects.
