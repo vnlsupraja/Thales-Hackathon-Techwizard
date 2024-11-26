@@ -51,6 +51,8 @@
 ---
 
 ## **Use Case and Impact**
+![For Admins__Analyze threats, refresh email data, and send security updates _20241126_101613_0000](https://github.com/user-attachments/assets/de131763-20c1-46e5-803f-ba5b7d40301b)
+
 - **For Admins**:
   - Analyze threats, refresh email data, and send security updates directly.
 - **For Regular Users**:
