@@ -63,9 +63,6 @@
 - **Presentation**: [View presentation](https://he-s3.s3.amazonaws.com/media/sprint/thales-gentech-india-hackathon/team/2119330/28a989bthales_ppi_sub.pptx)
 - **Demo App**: [Try the demo](https://techwizardthaleshackethon.streamlit.app/)
 - **Repository**: [GitHub Repo](https://github.com/vnlsupraja/Thales-Hackathon-Techwizard)
-- **Source Code**: [Download source](https://he-s3.s3.amazonaws.com/media/sprint/thales-gentech-india-hackathon/team/2119330/6985bccthales_hackthon.zip)
-
----
 
 ## **Instructions for Testing**
 1. Access the demo app using the credentials below:
