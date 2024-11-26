@@ -15,6 +15,8 @@
   - **Regular Users**: Redirected to an AI-powered chatbot for real-time assistance.
 
 ### **Admin Dashboard**
+![Admin Dashboard_Email Refresh_ Dynamically updates the latest email data wi_20241126_090823_0000](https://github.com/user-attachments/assets/4f4008e1-e84a-43ca-8fcf-ebfac41150cd)
+
 - **Email Refresh**: Dynamically updates the latest email data with one click.
 - **Email Sending**: Compose and send security-related emails to users.
 - **Data Display**: View detailed email data (sender, receiver, subject, date, category).
